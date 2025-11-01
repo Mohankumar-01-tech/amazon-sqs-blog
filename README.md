@@ -118,3 +118,7 @@ SQS automatically scales to handle any volume of messages without manual interve
 
 It can support millions of messages per second across distributed applications.
 Built-in redundancy ensures high availability — messages are stored across multiple AWS servers and Availability Zones.
+
+
+
+Blog Linke : https://medium.com/@mohankumarb498/amazon-sqs-explained-how-message-queues-power-modern-cloud-application-03caab6a1a72
